@@ -7,7 +7,6 @@ package com.dance.coding.fastdomapper.thread;
  *
  * @version 1.0
  *          Date Time: a
- *@author: XWK
  */
 public interface ISelectTask<T,V> extends ITaskHandle<T,V>, ITaskItem<T> {
 }

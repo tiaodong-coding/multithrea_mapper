@@ -16,7 +16,6 @@ public interface IMulThreadService<T,V> {
      * 执行任务，返回所有任务的结果集合
      * className: IMulThreadService
      *
-     * @author: ddys
      * @version 1.0
      * Date Time:
      */

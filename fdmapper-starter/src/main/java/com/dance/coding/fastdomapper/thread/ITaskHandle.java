@@ -14,7 +14,6 @@ public interface ITaskHandle<T,V> {
      * 执行任务，返回所有执行的结果
      * className: TaskMulThreadService
      *
-     * @author: ddys
      * @version 1.0
      * Date Time:
      */

@@ -6,17 +6,10 @@ package com.dance.coding.fastdomapper.thread;
  * className: ITaskItem
  *
  * @version 1.0
- *          Date Time: a
  */
 public interface ITaskItem<T> {
     /**
-     * @param 'a 传递参数
-     * @return a 回类型
-     * @throws
-     * @Title: a
     * @Description: 获取一批任务
-     * @author ddys
-     * @date 2015-11-15 21:09
      */
     public T[] getTaskItem();
 }

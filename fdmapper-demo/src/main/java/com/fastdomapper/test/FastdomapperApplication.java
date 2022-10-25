@@ -13,11 +13,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 必须扫描com.ddzhan.fastdomapper,否则无法注入
- * @author ddzhan
- *
- */
 @SpringBootApplication
 public class FastdomapperApplication implements CommandLineRunner {
 	@Autowired
