@@ -1,0 +1,12 @@
+com\dance\coding\fastdomapper\mapper\IBaseMapper.class
+com\dance\coding\fastdomapper\mapper\Mapper.class
+com\dance\coding\fastdomapper\thread\ISelectTask.class
+com\dance\coding\fastdomapper\config\DozerMapperConfig.class
+com\dance\coding\fastdomapper\exception\FastDoMapperException.class
+com\dance\coding\fastdomapper\thread\IMulThreadService.class
+com\dance\coding\fastdomapper\convert\impl\CorpDozerConvert.class
+com\dance\coding\fastdomapper\convert\IConvert.class
+com\dance\coding\fastdomapper\thread\ITaskItem.class
+com\dance\coding\fastdomapper\thread\TaskMulThreadService.class
+com\dance\coding\fastdomapper\thread\TaskMulThreadService$TaskItemThread.class
+com\dance\coding\fastdomapper\thread\ITaskHandle.class

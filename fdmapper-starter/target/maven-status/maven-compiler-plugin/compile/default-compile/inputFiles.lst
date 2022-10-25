@@ -1,0 +1,11 @@
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\mapper\Mapper.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\thread\ITaskItem.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\convert\IConvert.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\exception\FastDoMapperException.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\thread\ISelectTask.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\thread\TaskMulThreadService.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\mapper\IBaseMapper.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\config\DozerMapperConfig.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\thread\IMulThreadService.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\thread\ITaskHandle.java
+D:\workspace\java\study\FastDoMapper\fdmapper-starter\src\main\java\com\dance\coding\fastdomapper\convert\impl\CorpDozerConvert.java

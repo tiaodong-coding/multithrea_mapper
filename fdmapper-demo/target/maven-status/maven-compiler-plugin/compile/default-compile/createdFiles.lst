@@ -1,0 +1,5 @@
+com\fastdomapper\test\model\UserModel.class
+com\fastdomapper\test\convert\UserConvert.class
+com\fastdomapper\test\BatchUserMapping.class
+com\fastdomapper\test\vo\UserVO.class
+com\fastdomapper\test\FastdomapperApplication.class
